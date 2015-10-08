@@ -1,0 +1,4 @@
+D:\Documents\SourceCode\C#\RandomShit\TaskServ\TaskServ Backend\lib\SimpleHttpServer\bin\Debug\SimpleHttpServer.exe
+D:\Documents\SourceCode\C#\RandomShit\TaskServ\TaskServ Backend\lib\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+D:\Documents\SourceCode\C#\RandomShit\TaskServ\TaskServ Backend\lib\SimpleHttpServer\obj\x86\Debug\SimpleHttpServer.exe
+D:\Documents\SourceCode\C#\RandomShit\TaskServ\TaskServ Backend\lib\SimpleHttpServer\obj\x86\Debug\SimpleHttpServer.pdb
